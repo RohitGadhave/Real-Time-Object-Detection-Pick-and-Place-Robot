@@ -18,7 +18,7 @@
   
   ### SOFTWARES USED:-
   
-  1.PYTHON
+  1.PYTHON 3.6+
 
  2.OPENCV4
 
@@ -26,3 +26,7 @@
 
   4.NUMPY
   
+  5.PYSERIAL 3.4 
+  ```
+  $ pip install pyserial
+  ```
