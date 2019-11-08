@@ -1,6 +1,6 @@
 # Real-Time-Object-Detection-Pick-and-Place-Robot
 
- ### HARDWARES USED:-
+ ### *HARDWARES USED:-
 
   1.RASPBERRY PI 3B+
 
@@ -13,10 +13,12 @@
   5.AYASA ROBOTIC ARM
 
   6.THREE SERVO MOTORS
-
-  7.BATTERY (12v,4A-5A)
   
-  ### SOFTWARES USED:-
+  7.DC MOTOR (1)
+
+  8.BATTERY (12v,4A-5A)
+  
+  ### *SOFTWARES USED:-
   
   1.PYTHON 3.6+
   
