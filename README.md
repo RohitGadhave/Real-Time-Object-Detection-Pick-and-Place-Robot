@@ -1,6 +1,6 @@
 # Real-Time-Object-Detection-Pick-and-Place-Robot
 
- h3 HARDWARES USED:-
+ ### HARDWARES USED:-
 
   RASPBERRY PI 3B+
 
