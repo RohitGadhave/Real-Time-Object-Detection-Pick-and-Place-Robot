@@ -1,6 +1,6 @@
 # Real-Time-Object-Detection-Pick-and-Place-Robot
 
- ### *HARDWARES USED:-
+ ### HARDWARES USED:-
 
   1.RASPBERRY PI 3B+
 
@@ -18,7 +18,7 @@
 
   8.BATTERY (12v,4A-5A)
   
-  ### *SOFTWARES USED:-
+  ### SOFTWARES USED:-
   
   1.PYTHON 3.6+
   
