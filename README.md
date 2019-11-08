@@ -19,14 +19,20 @@
   ### SOFTWARES USED:-
   
   1.PYTHON 3.6+
+  
+  2.ARDUINO IDE
 
- 2.OPENCV4
-
-  3.ARDUINO IDE
+  3.OPENCV PYTHON 4.0+
+  ```
+  pip install opencv-python
+  ```
 
   4.NUMPY
+  ```
+  pip install numpy
+  ```
   
   5.PYSERIAL 3.4 
   ```
-  $ pip install pyserial
+  pip install pyserial
   ```
